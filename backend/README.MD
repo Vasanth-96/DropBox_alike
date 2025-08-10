@@ -1,0 +1,1 @@
+you can go to /docs to check the apis available and try it out if required
