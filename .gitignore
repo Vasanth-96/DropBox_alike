@@ -6,3 +6,4 @@
 **/.DS_Store
 **/files/
 **/__pycache__/
+**/coverage/
